@@ -26,3 +26,4 @@ Coded By | SCARS
 # M4R7H-Decrypter
 
 ![M4R7H-Decrypter](https://raw.githubusercontent.com/sCars-501/M4R7H-decrypter/ddc5952954d99159827d663aece51c826405fe5a/M4R7H-decrypter.jpg)
+![Language](https://img.shields.io/badge/Language-VB.NET-blueviolet)
