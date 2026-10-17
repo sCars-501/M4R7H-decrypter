@@ -23,4 +23,6 @@ We hope you enjoy it!
 
 Coded By | SCARS
 
-![image_alt}(https://github.com/sCars-501/M4R7H-decrypter/blob/737dc2571a4f05b96e32b8376380dcf31784a70f/M4R7H-decrypter.png)
+# M4R7H-Decrypter
+
+![M4R7H-Decrypter](https://raw.githubusercontent.com/sCars-501/M4R7H-decrypter/ddc5952954d99159827d663aece51c826405fe5a/M4R7H-decrypter.jpg)
